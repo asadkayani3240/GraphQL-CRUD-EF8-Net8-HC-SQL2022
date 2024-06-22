@@ -20,3 +20,62 @@ Install-Package HotChocolate.Data -Version 13.9.6
 Install-Package HotChocolate.Data.EntityFramework -Version 13.9.6
 Install-Package Microsoft.EntityFrameworkCore -Version 8.0.6
 Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 8.0.6
+
+# Test GraphQL Mutations 
+    GraphQL Query: 
+mutation ($addCake: CakeInput!) {
+  saveCake(newCake: $addCake) {
+    id
+  }
+}
+    Variables:
+
+{
+  "addCake": {
+    "id": 0,
+    "description": "Choco flavored cake",
+    "name": "Chocolate cake",
+    "price": 75
+  }
+}
+
+# Update a Cake
+
+    GraphQL Query:
+
+mutation ($updateCake: CakeInput!) {
+  updateCake(updateCake: $updateCake) {
+    id
+    description
+    name
+    price
+  }
+}
+
+    Variables:
+
+json
+
+{
+  "updateCake": {
+    "id": 1,
+    "description": "Strawberry sweet flavored cake",
+    "name": "Strawberry cake",
+    "price": 80
+  }
+}
+
+# Delete a Cake
+
+    GraphQL Query:
+mutation ($id: Int!) {
+  deleteCake(id: $id)
+}
+
+    Variables:
+
+json
+
+{
+  "id": 1
+}
