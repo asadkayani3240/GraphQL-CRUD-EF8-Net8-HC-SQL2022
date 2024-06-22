@@ -1,0 +1,165 @@
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\appsettings.Development.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\appsettings.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\GraphQL CRUD with EF.exe
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\GraphQL CRUD with EF.deps.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\GraphQL CRUD with EF.runtimeconfig.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\GraphQL CRUD with EF.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\GraphQL CRUD with EF.pdb
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Azure.Core.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Azure.Identity.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\BananaCakePop.Middleware.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\GreenDonut.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Abstractions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.AspNetCore.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Authorization.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Data.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Data.EntityFramework.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Execution.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Execution.Abstractions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Fetching.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Language.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Language.SyntaxTree.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Language.Utf8.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Language.Visitors.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Language.Web.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Subscriptions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Subscriptions.InMemory.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Transport.Sockets.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Types.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Types.CursorPagination.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Types.Mutations.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Types.OffsetPagination.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Types.Scalars.Upload.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Types.Shared.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Utilities.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Utilities.DependencyInjection.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\HotChocolate.Validation.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Humanizer.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.CodeDom.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.IO.Hashing.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.csproj.AssemblyReference.cache
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.AssemblyInfoInputs.cache
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.AssemblyInfo.cs
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.MvcApplicationPartsAssemblyInfo.cs
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets.build.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets.development.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets\msbuild.GraphQL CRUD with EF.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets\msbuild.build.GraphQL CRUD with EF.props
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GraphQL CRUD with EF.props
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GraphQL CRUD with EF.props
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\scopedcss\bundle\GraphQL CRUD with EF.styles.css
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL .CD711601.Up2Date
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\refint\GraphQL CRUD with EF.dll
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.pdb
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\GraphQL CRUD with EF.genruntimeconfig.cache
+E:\Visual Studio 2022\Projects\GraphQL CRUD with EF\GraphQL CRUD with EF\obj\Debug\net8.0\ref\GraphQL CRUD with EF.dll

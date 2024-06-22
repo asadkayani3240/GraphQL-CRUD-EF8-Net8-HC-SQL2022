@@ -1,0 +1,6 @@
+@GraphQL_CRUD_with_EF_HostAddress = http://localhost:5165
+
+GET {{GraphQL_CRUD_with_EF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
