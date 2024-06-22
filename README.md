@@ -3,9 +3,16 @@ This repository contains a GraphQL CRUD application built with Entity Framework 
 
 # Prerequisites
 
-    Visual Studio 2022 installed
-    SQL Server 2022 setup
+    Visual Studio 2022 installed 
     Basic knowledge of C#, .NET, and GraphQL
+    SQL Server 2022 Database Name ProductData 
+    Following Table is created.
+                    CREATE TABLE Cakes (
+                    Id INT PRIMARY KEY IDENTITY(1,1),
+                    Name NVARCHAR(100) NOT NULL,
+                    Price DECIMAL(18, 2) NOT NULL,
+                    Description NVARCHAR(255) NOT NULL
+                                        );
 
 # Step 1: Setting Up the Project
 
