@@ -53,9 +53,6 @@ mutation ($updateCake: CakeInput!) {
 }
 
     Variables:
-
-json
-
 {
   "updateCake": {
     "id": 1,
@@ -73,8 +70,6 @@ mutation ($id: Int!) {
 }
 
     Variables:
-
-json
 
 {
   "id": 1
